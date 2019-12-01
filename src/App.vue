@@ -5,6 +5,11 @@
       <router-link to="/about">About</router-link>
     </div>
     <router-view/>
+    <div>
+      <div>Maija Kekkonen 2019</div>
+      <div><a href="https://github.com/mkkekkonen/vue-cats">GitHub repo</a></div>
+      <div>License: <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></div>
+    </div>
   </div>
 </template>
 
